@@ -9,7 +9,9 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "vue": "^2.6.11",
+    "vue-virtual-listview": "^1.1.0",
+    "vue-virtual-scroll-list": "^2.3.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.4.0",
@@ -18,7 +20,11 @@
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
-    "vue-template-compiler": "^2.6.11"
+    "vue-template-compiler": "^2.6.11",
+    "vue-virtual-collection": "^1.4.1",
+    "vue-virtual-infinite-scroll": "^0.2.5",
+    "vxe-table": "^2.9.14",
+    "xe-utils": "^2.6.4"
   },
   "eslintConfig": {
     "root": true,
